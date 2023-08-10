@@ -9,7 +9,7 @@
 en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   disabled: false
-  languageCode: en-us
+  languageCode: en
   languageDirection: ltr
   languageName: English
   title: Personal page

@@ -4,7 +4,7 @@
 
 # Default language
 #Esta línea de abajo la agregé yo.
-defaultContentLanguage: en
+#defaultContentLanguage: en
 
 en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.

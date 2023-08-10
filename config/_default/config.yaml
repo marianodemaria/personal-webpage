@@ -14,7 +14,18 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
+#Grupo a de líneas agregada empieza.
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fr:
+    languageName: Français
+    weight: 2
+  es:
+    languageName: Spanish
+    weight: 3
+#Grupo a de líneas agregadas termina.
 ############################
 ## MODULES
 ############################

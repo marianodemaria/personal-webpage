@@ -3,9 +3,17 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+#Esta línea de abajo la agregé yo.
+defaultContentLanguage: en
+
 en:
-  languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  disabled: false
+  languageCode: en-us
+  languageDirection: ltr
+  languageName: English
+  title: Personal page
+  weight: 0
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
